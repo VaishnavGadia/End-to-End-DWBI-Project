@@ -78,12 +78,6 @@ The project follows a **star schema** with:
 - Introduce orchestration tools like **Apache Airflow**.
 - Expand dashboards with predictive analytics using **ML models**.
 
-## 🤝 Contributions
-Contributions, issues, and feature requests are welcome! Feel free to fork this repository and submit a pull request.
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 📧 **Connect with Me:** Feel free to reach out if you have questions or want to collaborate!
